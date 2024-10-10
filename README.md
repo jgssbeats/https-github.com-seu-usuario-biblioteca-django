@@ -1,1 +1,1 @@
-# https-github.com-seu-usuario-biblioteca-django
+Componente - João Guilherme dos Santos Souza
